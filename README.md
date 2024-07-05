@@ -3,7 +3,6 @@
 <!--
 **arya23923/arya23923** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-Here are some ideas to get you started:
 - 🏫 Currently a 3rd year student at Manipal Institute of Technology Bengaluru.
 - 🔭 Here's how i try to find the errors in my code. Praise the lord for Stack Overflow.
 - 🌱 I’m currently learning how to pinterest worthy websites.
