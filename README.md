@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning how to pinterest worthy websites.
 - 💬 Ask me about Vanilla js, java and C. (calligraphy and painting if that strikes your fancy)
 
-You can reach me at:
+You can reach me at:<br>
 <a href="https://www.instagram.com/arya.gupta239/?next=%2F"><img src="images/instagram.png"></a>
 <!--- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
